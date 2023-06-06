@@ -40,7 +40,6 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -53,7 +52,6 @@ After you're finished please remove all the comments and instructions!
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [Video-presentation](#presentation)
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
@@ -153,7 +151,7 @@ You can run tests to check for linter errors by running the following commands:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Future features
+## Future features <a name="future-features"></a>
 
 - **[Indexing to improve searches]**
 - **[Better Data sharing]**

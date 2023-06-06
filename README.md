@@ -153,6 +153,12 @@ You can run tests to check for linter errors by running the following commands:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Future features
+
+- **[Indexing to improve searches]**
+- **[Better Data sharing]**
+- **[Security Protocols]**
+
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
@@ -174,15 +180,6 @@ If you like this project please support me by staring ⭐️ it.
 I would like to thank my Microverse team and my coding partners for their support and guidance.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-##  PRESENTATION  <a name="presentation"></a>
-
-**PROJECT PRESENTATION VIDEO**
-
-No presentation done yet.
-
 
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>

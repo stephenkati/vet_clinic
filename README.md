@@ -40,7 +40,6 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -53,7 +52,6 @@ After you're finished please remove all the comments and instructions!
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [Video-presentation](#presentation)
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
@@ -153,6 +151,12 @@ You can run tests to check for linter errors by running the following commands:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Future features <a name="future-features"></a>
+
+- **[Indexing to improve searches]**
+- **[Better Data sharing]**
+- **[Security Protocols]**
+
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
@@ -174,15 +178,6 @@ If you like this project please support me by staring ⭐️ it.
 I would like to thank my Microverse team and my coding partners for their support and guidance.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-##  PRESENTATION  <a name="presentation"></a>
-
-**PROJECT PRESENTATION VIDEO**
-
-No presentation done yet.
-
 
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>

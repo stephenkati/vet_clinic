@@ -70,3 +70,5 @@ CREATE TABLE visits(
   date DATE,
   PRIMARY KEY (id)
 );
+
+ALTER TABLE owners ADD COLUMN email VARCHAR(120);

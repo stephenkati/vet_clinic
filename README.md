@@ -148,6 +148,9 @@ You can run tests to check for linter errors by running the following commands:
 - GitHub: [@githubhandle](https://github.com/stephenkati)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/stephen-katuli/)
 
+👤 **Rushema Anicet**
+- GitHub: [@githubhandle](https://github.com/rushemaa)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/rushemaa/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -175,7 +178,7 @@ If you like this project please support me by staring ⭐️ it.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank my Microverse team and my coding partners for their support and guidance.
+We would like to thank my Microverse team and my coding partners for their support and guidance.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
